@@ -1,0 +1,186 @@
+java
+python
+c++
+c#
+javascript
+visual basic
+go
+sql
+fortran
+delphi
+pascal
+assembly
+ruby
+matlab
+swift
+php
+scratch
+rust
+kotlin
+cobol
+typescript
+html
+css
+angular
+docker
+django
+mongodb
+spring
+perl
+lua
+scala
+groovy
+julia
+haskell
+lisp
+prolog
+scheme
+erlang
+elixir
+vhdl
+verilog
+apex
+coldfusion
+abap
+shell scripting
+bash
+tcl
+ada
+awk
+cobol
+matlab
+smalltalk
+powershell
+webassembly
+vue.js
+react
+node.js
+express.js
+flask
+kubernetes
+puppet
+ansible
+terraform
+jenkins
+hadoop
+spark
+hive
+pig
+redis
+neo4j
+graphql
+kafka
+rabbitmq
+tensorflow
+pytorch
+opencv
+unity
+unreal engine
+clojure
+nim
+crystal
+q#
+jupyter
+julia
+blitz.js
+svelte
+three.js
+backbone.js
+polymer
+next.js
+nuxt.js
+ember.js
+jquery
+bootstrap
+ant design
+material-ui
+vuetify
+webpack
+parcel
+grunt
+gulp
+babel
+chakra ui
+bulma
+primeng
+foundation
+semantic ui
+d3.js
+chart.js
+highcharts
+plotly
+keras
+scikit-learn
+theano
+paddlepaddle
+cntk
+mxnet
+chainer
+onnx
+rasa
+hugging face
+langchain
+gpt-3
+bert
+transformer models
+lstm
+gru
+word2vec
+glove
+tesseract
+nltk
+spacy
+openai codex
+stable diffusion
+dall-e
+midjourney
+adobe photoshop
+adobe illustrator
+gimp
+blender
+maya
+3ds max
+zbrush
+after effects
+premiere pro
+final cut pro
+davinci resolve
+audacity
+fl studio
+ableton live
+logic pro
+pro tools
+cubase
+reaper
+matlab simulink
+simscape
+ltspice
+pspice
+hspice
+mathematica
+maple
+gams
+ampl
+racket
+idris
+agda
+coq
+lean
+mercury
+oz
+turing
+eiffel
+x10
+fortress
+chapel
+rust
+zig
+carbon
+apl
+vba
+lotusscript
+applescript
+pico-8
+lua
+pascal
+lazarus

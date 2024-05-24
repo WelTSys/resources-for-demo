@@ -1,0 +1,67 @@
+android:Android Developer
+андроїд:Android Developer
+backend:Backend Engineer
+back end:Backend Engineer
+бекенд:Backend Engineer
+data engineer:Data Engineer
+data scientist:Data Scientist
+devops:DevOps
+девопс:DevOps
+embedded:Embedded Engineer
+engineering:Engineering Manager
+frontend:Frontend Engineer
+фронтенд:Frontend Engineer
+full Stack:Full-Stack Engineer
+full-Stack:Full-Stack Engineer
+фулл стек:Full-Stack Engineer
+ios:iOS Developer
+айос:iOS Developer
+machine learning:Machine Learning Engineer
+машинне навчання:Machine Learning Engineer
+mobile developer:Mobile Developer
+мобільн:Mobile Developer
+qa:QA Engineer
+security engineer:Security Engineer
+software architect:Software Architect
+software engineer:Software Engineer
+chief of staff:Chief of Staff
+customer service:Customer Service
+finance:Finance
+accounting:Accounting
+office manager:Office Manager
+operations manager:Operations Manager
+product manager:Product Manager
+creative director:Creative Director
+design manager:Design Manager
+graphic designer:Graphic Designer
+product designer:Product Designer
+user researcher:User Researcher
+visual designer:Visual Designer
+content creator:Content Creator
+copywriter:Copywriter
+digital marketing manager:Digital Marketing Manager
+growth hacker:Growth Hacker
+marketing manager:Marketing Manager
+product marketing manager:Product Marketing Manager
+social media manager:Social Media Manager
+account executive:Account Executive
+account manager:Account Manager
+business development:Business Development
+business development manager:Business Development Manager
+customer success manager:Customer Success Manager
+sales manager:Sales Manager
+менеджер з продаж:Sales Manager
+менеджер по продажам:Sales Manager
+chief executive officer:Chief Executive Officer (CEO)
+chief financial officer:Chief Financial Officer (CFO)
+chief marketing officer:Chief Marketing Officer (CMO)
+chief operating officer:Chief Operating Officer (COO)
+chief technology officer:Chief Technology Officer (CTO)
+hardware engineer:Hardware Engineer
+mechanical engineer:Mechanical Engineer
+systems engineer:Systems Engineer
+business analyst:Business Analyst
+data analyst:Data Analyst
+project manager:Project Manager
+editor:Editor
+редактор:Editor

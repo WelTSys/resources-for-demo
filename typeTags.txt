@@ -1,0 +1,7 @@
+remote:Remote
+віддалено:Remote
+отдален:Remote
+hybrid:Hybrid
+гібрид:Hybrid
+office:Office
+офіс:Office
